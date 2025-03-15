@@ -1,12 +1,8 @@
-Sure! Here's an example of a README file for functional testing using an Excel sheet in a manual testing project for your Cognizant internship:
-
----
-
-# Functional Testing with Excel Sheets - Manual Testing Project
+# Functional Testing of website -Arena School Enquiry Form & Hotel Booking website . 
 
 ## Overview
 
-This README file provides information about how to perform **Functional Testing** using an **Excel Sheet** in the context of a **Manual Testing** project for the Cognizant Internship. Functional Testing aims to verify that the system behaves according to the specified requirements and business logic.
+This project was done in my **cognizant internship program** where two dummy website was given to perform the **Functional Testing**. In this project **testing docs template** was provided by the **cognizant** along with website. There were some description of the **functionality** or the **test scenarion** which was supposed to be tested. 
 
 The purpose of this project is to track, manage, and execute test cases stored in an Excel file and ensure the system's features work as expected in a given scenario.
 
@@ -108,8 +104,6 @@ The **Excel Sheet** will contain a list of test cases with the following columns
 
 ## Conclusion
 
-This manual testing process using Excel is essential for verifying the functionality of the system under test. By organizing test cases and tracking the results, we can ensure the system meets its requirements and works as expected. Regular updates and communication with the testing team will help in identifying and resolving issues promptly.
+This **manual testing** process using **Excel** was essential for the project to verifying the **functionality of the system** under test. By organizing test cases and tracking the results, we can ensure the system meets its requirements and works as expected. Regular updates and communication with the testing team will help in identifying and resolving issues promptly.
 
----
 
-Feel free to customize this further based on the specific needs of your testing project!
